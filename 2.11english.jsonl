@@ -1,0 +1,442 @@
+{"id": "GH3030", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0535g/(m2·h)"}
+{"id": "GH3030", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.156g/(m2·h)"}
+{"id": "GH3030", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.3905g/(m2·h)"}
+{"id": "GH3030", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.581g/(m2·h)"}
+{"id": "GH3039", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.074g/(m2·h)"}
+{"id": "GH3039", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.251g/(m2·h)"}
+{"id": "GH3039", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.535g/(m2·h)"}
+{"id": "GH3039", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=1.061g/(m2·h)"}
+{"id": "GH3044", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0971g/(m2·h)"}
+{"id": "GH3044", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.205g/(m2·h)"}
+{"id": "GH3044", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.432g/(m2·h)"}
+{"id": "GH3044", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.788g/(m2·h)"}
+{"id": "GH3044", "text": "For alloy GH3044, the intergranular oxidation depth tested in air at 900°C is 0.016 mm."}
+{"id": "GH3044", "text": "For alloy GH3044, the intergranular oxidation depth tested in air at 1000°C is 0.08 mm."}
+{"id": "GH3044", "text": "For alloy GH3044, the intergranular oxidation depth tested in air at 1100°C is 0.11 mm."}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 900°C=0.097g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 900°C=0.067g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 900°C=0.058g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.045g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.033g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 900°C=0.026g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 900°C=0.018g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 900°C=0.132g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 900°C=0.074g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 900°C=0.054g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.035g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.021g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 900°C=0.014g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 900°C=0.009g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 900°C=0.083g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 900°C=0.082g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 900°C=0.066g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.045g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.03g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 900°C=0.023g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 900°C=0.015g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1000°C=0.511g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1000°C=0.343g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1000°C=0.252g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.178g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1000°C=0.099g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 1000°C=0.066g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1000°C=0.041g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1000°C=0.186g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1000°C=0.11g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1000°C=0.072g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.051g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1000°C=0.029g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 1000°C=0.023g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1000°C=0.016g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1000°C=0.216g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1000°C=0.134g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1000°C=0.092g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.062g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1000°C=0.032g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 1000°C=0.024g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1000°C=0.015g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=1.53g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1100°C=0.8g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1100°C=0.55g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.34g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.18g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=0.36g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1100°C=0.26g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1100°C=0.2g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.15g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.09g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=0.32g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1100°C=0.23g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1100°C=0.19g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.14g/(m2·h)"}
+{"id": "K417G", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.09g/(m2·h)"}
+{"id": "GH3128", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.055g/(m2·h)"}
+{"id": "GH3128", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.236g/(m2·h)"}
+{"id": "GH3128", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.269g/(m2·h)"}
+{"id": "GH3170", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.0432g/(m2·h)"}
+{"id": "GH3170", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.162g/(m2·h)"}
+{"id": "GH3181", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.029g/(m2·h)"}
+{"id": "GH3181", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0467g/(m2·h)"}
+{"id": "GH3181", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0939g/(m2·h)"}
+{"id": "GH3181", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.3315g/(m2·h)"}
+{"id": "GH3181", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.298g/(m2·h)"}
+{"id": "GH3536 and K4536", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0023g/(m2·h)"}
+{"id": "GH3536 and K4536", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.06g/(m2·h)"}
+{"id": "GH3536 and K4536", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.117g/(m2·h)"}
+{"id": "GH3536 and K4536", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.2g/(m2·h)"}
+{"id": "GH3536 and K4536", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.611g/(m2·h)"}
+{"id": "GH3600", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.01865g/(m2·h)"}
+{"id": "GH3600", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.05724g/(m2·h)"}
+{"id": "GH3600", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.13718g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1000°C=0.1775g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1000°C=0.095g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1000°C=0.068g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=80h, Oxidation Rate at 1000°C=0.0538g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.046g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=0.3495g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1100°C=0.2138g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1100°C=0.1563g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=80h, Oxidation Rate at 1100°C=0.1261g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.1121g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1200°C=1.085g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=40h, Oxidation Rate at 1200°C=0.665g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=60h, Oxidation Rate at 1200°C=0.5417g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=80h, Oxidation Rate at 1200°C=0.4388g/(m2·h)"}
+{"id": "GH3652", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.367g/(m2·h)"}
+{"id": "GH2018", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0788g/(m2·h)"}
+{"id": "GH2018", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.2905g/(m2·h)"}
+{"id": "GH2018", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.3738g/(m2·h)"}
+{"id": "GH2018", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.6555g/(m2·h)"}
+{"id": "GH2035A", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.1997g/(m2·h)"}
+{"id": "GH2035A", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.4134g/(m2·h)"}
+{"id": "GH2036", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=1.25g/(m2·h)"}
+{"id": "GH2036", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=1.97g/(m2·h)"}
+{"id": "GH2038", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.4115g/(m2·h)"}
+{"id": "GH2038", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=1.4185g/(m2·h)"}
+{"id": "GH2130", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.094g/(m2·h)"}
+{"id": "GH2130", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1159g/(m2·h)"}
+{"id": "GH2130", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.319g/(m2·h)"}
+{"id": "GH2130", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=1.125g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.00417g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 650°C=0.00276g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 650°C=0.00234g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0325g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 750°C=0.07216g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 750°C=0.08322g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.1163g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 850°C=0.12386g/(m2·h)"}
+{"id": "GH2132And premium qualityGH2132", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 850°C=0.09672g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.019g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.029g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.042g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.077g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.095g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 950°C=0.168g/(m2·h)"}
+{"id": "GH2135", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.283g/(m2·h)"}
+{"id": "GH2150", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.02g/(m2·h)"}
+{"id": "GH2150", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.084g/(m2·h)"}
+{"id": "GH2150", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.23g/(m2·h)"}
+{"id": "K4130", "text": "Medium=Air Medium, Test Duration=96h, Oxidation Rate at 850°C=0.044786g/(m2·h)"}
+{"id": "K4130", "text": "Medium=Air Medium, Test Duration=192h, Oxidation Rate at 850°C=0.036366g/(m2·h)"}
+{"id": "K4130", "text": "Medium=Air Medium, Test Duration=288h, Oxidation Rate at 850°C=0.032845g/(m2·h)"}
+{"id": "K4130", "text": "Medium=Air Medium, Test Duration=433h, Oxidation Rate at 850°C=0.023217g/(m2·h)"}
+{"id": "K4130", "text": "Medium=Air Medium, Test Duration=528h, Oxidation Rate at 850°C=0.016537g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0541g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1169g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.4426g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=1.2066g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0182g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0436g/(m2·h)"}
+{"id": "GH2302 and K232", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.1736g/(m2·h)"}
+{"id": "K4163", "text": "Medium=Air Medium, Test Duration=96h, Oxidation Rate at 850°C=0.033791g/(m2·h)"}
+{"id": "K4163", "text": "Medium=Air Medium, Test Duration=192h, Oxidation Rate at 850°C=0.02814g/(m2·h)"}
+{"id": "K4163", "text": "Medium=Air Medium, Test Duration=288h, Oxidation Rate at 850°C=0.025592g/(m2·h)"}
+{"id": "K4163", "text": "Medium=Air Medium, Test Duration=433h, Oxidation Rate at 850°C=0.020983g/(m2·h)"}
+{"id": "K4163", "text": "Medium=Air Medium, Test Duration=528h, Oxidation Rate at 850°C=0.017223g/(m2·h)"}
+{"id": "GH2328", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 500°C=0.0376g/(m2·h)"}
+{"id": "GH2328", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.0439g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=25.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 1200°C=46.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=2000h, Oxidation Rate at 1200°C=60.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1250°C=28.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1250°C=42.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 1250°C=61.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=2000h, Oxidation Rate at 1250°C=75.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1300°C=33.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1300°C=65.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=2000h, Oxidation Rate at 1300°C=174.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1350°C=45.0g/(m2·h)"}
+{"id": "GH2747", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 1350°C=130.0g/(m2·h)"}
+{"id": "K2136", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.343g/(m2·h)"}
+{"id": "K2136", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.388g/(m2·h)"}
+{"id": "GH2761", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0295g/(m2·h)"}
+{"id": "GH2761", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0921g/(m2·h)"}
+{"id": "GH2761", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.1359g/(m2·h)"}
+{"id": "GH2901", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.0072g/(m2·h)"}
+{"id": "GH2901", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.014g/(m2·h)"}
+{"id": "GH2901", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0522g/(m2·h)"}
+{"id": "GH2901", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1665g/(m2·h)"}
+{"id": "GH2901", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.2367g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 600°C=0.205g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 600°C=0.129g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 600°C=0.106g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.097g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 600°C=0.066g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 600°C=0.077g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 600°C=0.05g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 650°C=0.27g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 650°C=0.217g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 650°C=0.17g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.144g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 650°C=0.071g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 650°C=0.076g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 650°C=0.068g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 700°C=0.884g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 700°C=0.619g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 700°C=0.531g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.455g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 700°C=0.34g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 700°C=0.286g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 700°C=0.164g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 750°C=1.737g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 750°C=1.246g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 750°C=1.046g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.967g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 750°C=0.673g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 750°C=0.523g/(m2·h)"}
+{"id": "GH2907", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 750°C=0.3g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 550°C=0.072g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 550°C=0.0457g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 550°C=0.036g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 550°C=0.0349g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 600°C=0.174g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 600°C=0.11g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 600°C=0.088g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.077g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 600°C=0.074g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 600°C=0.066g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=400h, Oxidation Rate at 600°C=0.067g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 600°C=0.064g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=600h, Oxidation Rate at 600°C=0.061g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=700h, Oxidation Rate at 600°C=0.057g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=800h, Oxidation Rate at 600°C=0.053g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 600°C=0.044g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 650°C=0.261g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 650°C=0.214g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 650°C=0.179g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.155g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 650°C=0.125g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 650°C=0.1g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=400h, Oxidation Rate at 650°C=0.096g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 650°C=0.086g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=600h, Oxidation Rate at 650°C=0.082g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=700h, Oxidation Rate at 650°C=0.079g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=800h, Oxidation Rate at 650°C=0.076g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 650°C=0.067g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 700°C=0.797g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 700°C=0.576g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 700°C=0.535g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.466g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 700°C=0.352g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 700°C=0.323g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=400h, Oxidation Rate at 700°C=0.319g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 700°C=0.281g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=600h, Oxidation Rate at 700°C=0.255g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=700h, Oxidation Rate at 700°C=0.228g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=800h, Oxidation Rate at 700°C=0.206g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 700°C=0.17g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 750°C=1.803g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 750°C=1.271g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 750°C=1.058g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.93g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 750°C=0.548g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=300h, Oxidation Rate at 750°C=0.512g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=400h, Oxidation Rate at 750°C=0.465g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=500h, Oxidation Rate at 750°C=0.407g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=600h, Oxidation Rate at 750°C=0.354g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=700h, Oxidation Rate at 750°C=0.313g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=800h, Oxidation Rate at 750°C=0.28g/(m2·h)"}
+{"id": "GH2909", "text": "Medium=Air Medium, Test Duration=1000h, Oxidation Rate at 750°C=0.234g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 800°C=0.086g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 800°C=0.064g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 800°C=0.051g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.045g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 900°C=0.212g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 900°C=0.171g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 900°C=0.133g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.118g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 1000°C=0.732g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1000°C=0.491g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 1000°C=0.376g/(m2·h)"}
+{"id": "GH4033", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.299g/(m2·h)"}
+{"id": "K644", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 815°C=0.02g/(m2·h)"}
+{"id": "K644", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.057g/(m2·h)"}
+{"id": "K644", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.086g/(m2·h)"}
+{"id": "GH4037", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1g/(m2·h)"}
+{"id": "GH4037", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.332g/(m2·h)"}
+{"id": "GH4037", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.709g/(m2·h)"}
+{"id": "GH4049", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 950°C=0.65g/(m2·h)"}
+{"id": "GH4049", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.8g/(m2·h)"}
+{"id": "GH4049", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=1.07g/(m2·h)"}
+{"id": "GH1040", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.001g/(m2·h)"}
+{"id": "GH1040", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.003g/(m2·h)"}
+{"id": "GH1040", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.013g/(m2·h)"}
+{"id": "GH1040", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.06g/(m2·h)"}
+{"id": "GH4093", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0398g/(m2·h)"}
+{"id": "GH4093", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0236g/(m2·h)"}
+{"id": "GH4093", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1435g/(m2·h)"}
+{"id": "GH4099", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.017g/(m2·h)"}
+{"id": "GH4099", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.084g/(m2·h)"}
+{"id": "GH4099", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.212g/(m2·h)"}
+{"id": "GH4099", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.481g/(m2·h)"}
+{"id": "GH4099", "text": "For alloy GH4099, the grain boundary oxidation depth tested in air at 800°C for 100 h is 0 mm."}
+{"id": "GH4099", "text": "For alloy GH4099, the grain boundary oxidation depth tested in air at 900°C for 100 h is 0.0064–0.0086 mm."}
+{"id": "GH4099", "text": "For alloy GH4099, the grain boundary oxidation depth tested in air at 1000°C for 100 h is 0.0160–0.0192 mm."}
+{"id": "GH4099", "text": "For alloy GH4099, the grain boundary oxidation depth tested in air at 1100°C for 100 h is 0.0288–0.0320 mm."}
+{"id": "GH4133 and GH4133B", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0205g/(m2·h)"}
+{"id": "GH4133 and GH4133B", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.1104g/(m2·h)"}
+{"id": "GH4133 and GH4133B", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 800°C=0.0129g/(m2·h)"}
+{"id": "GH4133 and GH4133B", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.0814g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 900°C=0.24g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 900°C=0.15g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 900°C=0.12g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.095g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.066g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 1000°C=0.61g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1000°C=0.41g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 1000°C=0.32g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.26g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1000°C=0.182g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 1100°C=1.36g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1100°C=0.87g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 1100°C=0.75g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.68g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.49g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=25h, Oxidation Rate at 1100°C=0.496g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1100°C=0.494g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=75h, Oxidation Rate at 1100°C=0.413g/(m2·h)"}
+{"id": "GH4141", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.356g/(m2·h)"}
+{"id": "GH1131", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.131g/(m2·h)"}
+{"id": "GH1131", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 950°C=0.156g/(m2·h)"}
+{"id": "GH1131", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.1863g/(m2·h)"}
+{"id": "GH1131", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.4465g/(m2·h)"}
+{"id": "GH4163", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.08g/(m2·h)"}
+{"id": "GH4163", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.49g/(m2·h)"}
+{"id": "GH4169", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.0176g/(m2·h)"}
+{"id": "GH4169", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0277g/(m2·h)"}
+{"id": "GH4169", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.0351g/(m2·h)"}
+{"id": "GH4169", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0961g/(m2·h)"}
+{"id": "GH4169", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.162g/(m2·h)"}
+{"id": "GH4199", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.0045g/(m2·h)"}
+{"id": "GH4199", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.0064g/(m2·h)"}
+{"id": "GH4199", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.482g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=10h, Oxidation Rate at 950°C=0.232g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 950°C=0.186g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 950°C=0.09g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 950°C=0.06g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 950°C=0.041g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=10h, Oxidation Rate at 1100°C=0.815g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=0.469g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1100°C=0.267g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.118g/(m2·h)"}
+{"id": "DD402", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.114g/(m2·h)"}
+{"id": "GH4220", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 950°C=0.021g/(m2·h)"}
+{"id": "GH4220", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.033g/(m2·h)"}
+{"id": "GH4500", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.012g/(m2·h)"}
+{"id": "GH4500", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.036g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=10h, Oxidation Rate at 900°C=0.088g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 900°C=0.069g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 900°C=0.039g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.024g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 900°C=0.016g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=10h, Oxidation Rate at 1000°C=0.144g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1000°C=0.07g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1000°C=0.065g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.034g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1000°C=0.024g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=10h, Oxidation Rate at 1100°C=0.288g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=20h, Oxidation Rate at 1100°C=0.205g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=50h, Oxidation Rate at 1100°C=0.077g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.063g/(m2·h)"}
+{"id": "DD407", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 1100°C=0.05g/(m2·h)"}
+{"id": "FGH4096", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.021g/(m2·h)"}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 650°C for 25 h is 0.64 g/(g/m²)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 650°C for 25 h is 0.025 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 650°C for 50 h is 1.45 g/(g/m²)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 650°C for 50 h is 0.03 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 650°C for 75 h is 1.57 g/(g/m²)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 650°C for 75 h is 0.021 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 650°C for 100 h is 1.78 g/(g/m²)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 650°C for 100 h is 0.018 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 700°C for 100 h is 0.029 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 750°C for 25 h is 1.32 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 750°C for 25 h is 0.053 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 750°C for 50 h is 1.61 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 750°C for 50 h is 0.032 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 750°C for 75 h is 1.74 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 750°C for 75 h is 0.023 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 750°C for 100 h is 1.78 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 750°C for 100 h is 0.018 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 800°C for 100 h is 0.035 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 900°C for 25 h is 5.9 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 900°C for 25 h is 0.236 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 900°C for 50 h is 9.0 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 900°C for 50 h is 0.18 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 900°C for 75 h is 11.46 g/m²."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation rate tested in air at 900°C for 75 h is 0.153 g/(m²·h)."}
+{"id": "FGH4096", "text": "For alloy FGH4096, the oxidation weight gain tested in air at 900°C for 100 h is 13.46 g/m²."}
+{"id": "FGH4096", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.135g/(m2·h)"}
+{"id": "FGH4096", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.314g/(m2·h)"}
+{"id": "GH4738", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.083g/(m2·h)"}
+{"id": "GH4738", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.226g/(m2·h)"}
+{"id": "FGH4097", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.02125g/(m2·h)"}
+{"id": "FGH4097", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.02625g/(m2·h)"}
+{"id": "FGH4097", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.03375g/(m2·h)"}
+{"id": "FGH4097", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.0925g/(m2·h)"}
+{"id": "FGH4097", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=2.5525g/(m2·h)"}
+{"id": "MGH2756", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.0083g/(m2·h)"}
+{"id": "MGH2756", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.0206g/(m2·h)"}
+{"id": "MGH2756", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.04g/(m2·h)"}
+{"id": "MGH2756", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1300°C=0.06g/(m2·h)"}
+{"id": "GH6783", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0065g/(m2·h)"}
+{"id": "GH6783", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0075g/(m2·h)"}
+{"id": "GH6783", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.01g/(m2·h)"}
+{"id": "GH6783", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.07g/(m2·h)"}
+{"id": "MGH4754", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.015g/(m2·h)"}
+{"id": "MGH4754", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.0367g/(m2·h)"}
+{"id": "MGH4754", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.18g/(m2·h)"}
+{"id": "MGH4754", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1300°C=0.19g/(m2·h)"}
+{"id": "GH1140", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.014g/(m2·h)"}
+{"id": "GH1140", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.028g/(m2·h)"}
+{"id": "GH1140", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.139g/(m2·h)"}
+{"id": "GH1140", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.27g/(m2·h)"}
+{"id": "GH1140", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.523g/(m2·h)"}
+{"id": "JG1101(TAC-2)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0267g/(m2·h)"}
+{"id": "JG1101(TAC-2)", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 750°C=0.0408g/(m2·h)"}
+{"id": "JG1102(TAC-2M)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0267g/(m2·h)"}
+{"id": "JG1102(TAC-2M)", "text": "Medium=Air Medium, Test Duration=200h, Oxidation Rate at 750°C=0.0408g/(m2·h)"}
+{"id": "JG1201(TAC-3A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.0248g/(m2·h)"}
+{"id": "JG1201(TAC-3A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0852g/(m2·h)"}
+{"id": "JG1201(TAC-3A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.2625g/(m2·h)"}
+{"id": "JG1301(TAC-1)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 600°C=0.025g/(m2·h)"}
+{"id": "JG1301(TAC-1)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.132g/(m2·h)"}
+{"id": "JG1301(TAC-1)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.25g/(m2·h)"}
+{"id": "JG1301(TAC-1)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.296g/(m2·h)"}
+{"id": "JG1302(TAC-1B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 650°C=0.015g/(m2·h)"}
+{"id": "JG1302(TAC-1B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 750°C=0.0601g/(m2·h)"}
+{"id": "JG1302(TAC-1B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 850°C=0.12g/(m2·h)"}
+{"id": "GH1180", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 700°C=0.0416g/(m2·h)"}
+{"id": "GH1180", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.01551g/(m2·h)"}
+{"id": "GH1180", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.05229g/(m2·h)"}
+{"id": "GH1180", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.1179g/(m2·h)"}
+{"id": "GH1180", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.215g/(m2·h)"}
+{"id": "JG4246A(MX246A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.041g/(m2·h)"}
+{"id": "JG4246A(MX246A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.064g/(m2·h)"}
+{"id": "JG4246A(MX246A)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.52g/(m2·h)"}
+{"id": "JG4246B(MX246B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.048g/(m2·h)"}
+{"id": "JG4246B(MX246B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.051g/(m2·h)"}
+{"id": "JG4246B(MX246B)", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1200°C=0.16g/(m2·h)"}
+{"id": "GH1333", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 800°C=0.028g/(m2·h)"}
+{"id": "GH1333", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 900°C=0.13g/(m2·h)"}
+{"id": "GH1333", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1000°C=0.18g/(m2·h)"}
+{"id": "GH1333", "text": "Medium=Air Medium, Test Duration=100h, Oxidation Rate at 1100°C=0.36g/(m2·h)"}
