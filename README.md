@@ -1,7 +1,5 @@
 # HTMAT: A Knowledge-Data Dual-Driven Agent for Autonomous Superalloy Design
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 HTMAT (**H**igh-**T**emperature **M**aterials **A**gent) is a knowledge-graph-guided, prompt-engineered AI agent for the autonomous design of nickel-based single-crystal superalloys. By integrating a metallurgical knowledge graph with physics-informed deep learning models within a multi-stage reasoning pipeline, HTMAT converges from ~1.37 × 10⁹ possible compositions to a single Pareto-optimal alloy — **CSU-T1** — without any target composition specified in its instructions.
 
 ## Repository Structure
@@ -18,13 +16,13 @@ HTMAT (**H**igh-**T**emperature **M**aterials **A**gent) is a knowledge-graph-gu
 │   ├── 2_Code/                 # Data transformation utilities
 │   └── images/                 # KG construction figures
 │
-├── RAG+DeepSeek/              # Retrieval-augmented generation evaluation
-│   ├── evaluate_rag_enhanced.py        # 60-question RAG benchmark (DeepSeek-V3)
-│   └── rag_retriever.py                # TF-IDF hybrid retriever over KG data
+├── Benchmark/                 # KG-enhanced LLM benchmark evaluation
+│   ├── bench_final_1000.py            # 900-question, 3-mode benchmark
+│   └── generate_table_s1.py           # Per-question benchmark results (Table S1)
 │
-├── Benchmark/                 # LLM benchmark evaluation
-│   ├── bench_final_1000.py            # 1,000-question KG-enhanced QA benchmark
-│   └── generate_table_s1.py           # Benchmark results table generation
+├── RAG+DeepSeek/              # Retrieval-augmented generation (standalone)
+│   ├── evaluate_rag_enhanced.py        # Query-rewriting RAG evaluation
+│   └── rag_retriever.py                # TF-IDF retriever over KG data
 │
 ├── Design_Pipeline/           # CSU-T1 design process documentation & data
 │   ├── CSU-T1_Selection_Technical_Report_EN.md   # Full CSU-T1 selection report
@@ -76,35 +74,33 @@ HTMAT (**H**igh-**T**emperature **M**aterials **A**gent) is a knowledge-graph-gu
 
 ## Key Technical Contributions
 
-- **Prompt Engineering as Method**: The Agent's reasoning — not the KG alone — drives autonomous convergence. The KG provides the initial element space, but the four-layer physics funnel, survivor analysis, multi-objective scoring, and backbone selection are all emergent Agent behaviors guided by prompt engineering.
-- **Phys+PINN Architecture**: Dual physical knowledge integration at input (5 physical descriptors: Md̄, δ, ln Z, T_h, Re_eff) and loss levels (LMP-based physics consistency penalty), achieving superior high-temperature extrapolation.
-- **Geometric Mean Scoring**: GM = √(P₉₈₀ × P₁₁₂₀) penalizes single-temperature creep specialists.
+- **Prompt Engineering as Method**: The Agent's reasoning — not the KG alone — drives autonomous convergence. The KG provides the initial element space (equivalent to a human expert's literature survey), but the four-layer physics funnel, survivor analysis, multi-objective scoring, and backbone selection are all emergent Agent behaviors guided by prompt engineering.
+- **Phys+PINN Architecture**: Dual physical knowledge integration at input (5 physical descriptors: Md̄, δ, ln Z, T_h, Re_eff) and loss levels (LMP-based physics consistency penalty), achieving superior high-temperature extrapolation (R² = 0.8193 on T ≥ 1,100°C, n = 96).
+- **Geometric Mean Scoring**: GM = √(P₉₈₀ × P₁₁₂₀) penalizes single-temperature creep specialists that would dominate a univariate ranking.
 - **Fully Auditable**: Complete prompt chain disclosed verbatim; every Agent decision traceable to specific physical justification.
 
-## RAG + DeepSeek
+## Benchmark: KG-Enhanced QA Evaluation
 
-The retrieval-augmented generation module uses **DeepSeek-V3** with a hybrid KG retrieval strategy:
-- **Query rewriting**: Chinese → English symbol normalization
-- **TF-IDF retrieval**: Lightweight, zero-dependency keyword matching over KG entries
-- **60-question benchmark**: 40 base + 20 adversarial perturbation questions
+The benchmark (`bench_final_1000.py`) evaluates three modes on **900 questions** spanning 40+ superalloy property categories:
+
+| Mode | Description |
+|------|-------------|
+| **Pure Model** | DeepSeek-Chat answering from parametric knowledge alone |
+| **Plain Vector RAG** | Dense retrieval (BGE-small-en-v1.5 embeddings) + DeepSeek-Chat |
+| **Our Agent** | Hybrid retrieval (BM25 + dense embeddings + property keyword pre-filtering + unit-aware filtering + alloy-specific index mapping) + DeepSeek-Chat |
+
+The hybrid retrieval strategy combines:
+- **Sparse (BM25)**: Lexical matching with IDF-weighted token scoring
+- **Dense (BGE)**: Semantic similarity via normalized embedding dot products
+- **Property pre-filtering**: 40-category keyword taxonomy maps each question to its metallurgical property type, constraining retrieval to relevant document subsets
+- **Unit-aware filtering**: Temperature (°C) and time (h) extraction for condition-specific matching
+- **Alloy index**: Alloy-grade-to-document mapping for composition-specific retrieval
+
+Per-question results and category-level breakdowns are provided in `TableS1_benchmark_details.xlsx`.
 
 ## Data Security
 
-HTMAT supports fully localized, offline deployment on high-performance workstations, ensuring absolute data privacy for proprietary alloy research.
-
-## Citation
-
-If you use HTMAT in your research, please cite:
-
-```bibtex
-@article{HTMAT2025,
-  title={A Knowledge-Data Dual-Driven AI Agent for Reliable Reasoning and Autonomous Design of Superalloys},
-  author={Yao, Jian and colleagues},
-  journal={Nature Communications},
-  year={2025},
-  note={Under review}
-}
-```
+HTMAT uses API-based LLM inference (DeepSeek-Chat) with local embedding models (BGE-small-en-v1.5), enabling deployment on high-performance workstations with controlled data egress.
 
 ## License
 
